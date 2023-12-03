@@ -1,13 +1,3 @@
 # token_7174.aleo
 
-## Build Guide
-
-To compile this Aleo program, run:
-```bash
-snarkvm build
-```
-
-To execute this Aleo program, run:
-```bash
-snarkvm run hello
-```
+<img width="1710" alt="Screenshot 2023-12-03 at 16 40 28" src="https://github.com/vinc2828/aleo/assets/152817738/1a5bf8c0-5645-4b92-9cfa-fc92c5552678">
